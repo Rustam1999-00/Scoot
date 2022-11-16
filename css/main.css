@@ -366,4 +366,20 @@ template {
   max-width: 1150px;
   margin: 0 auto;
   padding: 0 20px;
+}
+
+.about {
+  padding: 62px 0 82px;
+  background-image: url("../../images/about-hero-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+
+.about__title {
+  margin: 0;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 56px;
+  letter-spacing: -2.5px;
+  color: #FFFFFF;
 }/*# sourceMappingURL=main.css.map */
