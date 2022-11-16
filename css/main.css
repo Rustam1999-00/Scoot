@@ -359,4 +359,11 @@ template {
   position: absolute;
   white-space: nowrap;
   width: 1px;
+}
+
+.container {
+  width: 100%;
+  max-width: 1150px;
+  margin: 0 auto;
+  padding: 0 20px;
 }/*# sourceMappingURL=main.css.map */
