@@ -1,10 +1,6 @@
 
-@import 'about-hero';
-@import "about-mobility";
-
-
-@import 'about-hero';
-
+@import 'About/about-hero';
+@import "About/about-mobility";
 @import"Home/header";
-@import "about-values";
-
+@import "About/about-values";
+@import "About/about-faq";
