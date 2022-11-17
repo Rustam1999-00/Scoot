@@ -438,22 +438,6 @@ template {
   border-radius: 50%;
 }
 
-.about {
-  padding: 62px 0 82px;
-  background-image: url("../../images/about-hero-bg.jpg");
-  background-repeat: no-repeat;
-  background-position: 50%;
-}
-
-.about__title {
-  margin: 0;
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 56px;
-  letter-spacing: -2.5px;
-  color: #FFFFFF;
-}
-
 .site-header {
   padding: 22px 0;
 }
@@ -604,4 +588,35 @@ template {
 
 .about-values-item:nth-child(3) > .about-values-item__img::after {
   content: "03";
+}
+
+.about-faq {
+  padding-bottom: 160px;
+}
+
+.about-faq__title {
+  margin-bottom: 64px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 48px;
+  text-align: center;
+  letter-spacing: -2.14286px;
+  color: #495567;
+}
+
+.accordion-body2 {
+  font-family: "Lexend Deca";
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: #495567;
+}
+
+.accordion-item2 {
+  background: #F2F5F9;
+}
+
+.accordion2 {
+  margin-top: 64px;
 }/*# sourceMappingURL=main.css.map */
